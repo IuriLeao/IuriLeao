@@ -29,7 +29,7 @@ Me chamo Iuri Leão, tenho 20 anos e sou natural de Canoas, RS. Atualmente, esto
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
