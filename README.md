@@ -2,7 +2,7 @@
 
 **`Analista De Dados`**
 
-Me chamo Iuri Leão, tenho 20 anos, sou natural de Canoas RS, atualmente no 3* semestre de Engenharia De Software, focado para area de dados. Sou apaixonado por tecnologias e sempre estou em busco de novos conhecimentos. "[Meu Linkedin](https://www.linkedin.com/in/iurigabriele%C3%A3o/)".
+Me chamo Iuri Leão, tenho 20 anos e sou natural de Canoas, RS. Atualmente, estou no 3º semestre de Engenharia de Software, com foco na área de dados. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. "[Meu Linkedin](https://www.linkedin.com/in/iurigabriele%C3%A3o/)".
 
 <p align="left">
     <a href="https://github.com/IuriLeao?tab=repositories&sort=stargazers">
