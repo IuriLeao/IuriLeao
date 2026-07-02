@@ -73,12 +73,11 @@ Me chamo Iuri Leão, tenho 22 anos e sou natural de Canoas, RS. Atualmente, esto
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=IuriLeao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=IuriLeao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IuriLeao&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriLeao&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8"
   />
 </p>
