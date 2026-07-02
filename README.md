@@ -153,7 +153,7 @@ src="https://streak-stats.demolab.com?user=IuriLeao&theme=tokyonight"
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=IuriLeao&theme=tokyo-night"
+src="https://github-readme-activity-graph.vercel.app/graph?username=IuriLeao&theme=github-dark"
 />
 
 </p>
