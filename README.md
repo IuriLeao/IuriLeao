@@ -1,105 +1,32 @@
 # 👋 Olá, eu sou o Iuri Leão!
 
-**💻 💻 IT Support | Infrastructure | Data Enthusiast | Engenharia de Software | Apaixonado por Tecnologia**
+**💻 IT Infrastructure | Cloud | Data**
 
-Me chamo **Iuri Leão**, tenho **22 anos** e sou natural de **Canoas - RS**.
+Sou estudante de **Engenharia de Software** e apaixonado por tecnologia.
 
-Atualmente estou cursando o **6º semestre de Engenharia de Software** e direcionando meus estudos para as áreas de:
-
-- 📊 Dados
-- ☁️ Cloud Computing
-- 🐧 Linux
-- 🐳 Docker
-- 💻 Infraestrutura
-- 🤖 Automação
-
-Meu objetivo é atuar em empresas de tecnologia, sempre buscando aprender novas ferramentas e resolver problemas reais através da tecnologia.
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/iurigabrieleão/
+Atualmente atuo na área de **Infraestrutura de TI** e direciono meus estudos para Linux, Cloud Computing, Docker, Redes, Windows Server e Dados, buscando desenvolver soluções eficientes e evoluir constantemente como profissional.
 
 ---
 
-<p align="left">
-    <a href="https://github.com/IuriLeao?tab=repositories&sort=stargazers">
-        <img
-            alt="Stars"
-            title="Total de estrelas"
-            src="https://custom-icon-badges.demolab.com/github/stars/IuriLeao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-
-<a href="https://github.com/IuriLeao?tab=followers">
-    <img
-        alt="Seguidores"
-        title="Me siga no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/IuriLeao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
-
-</p>
-
----
-
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 <p align="left">
 
-<img
-    alt="Python"
-    title="Python"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
 
-<img
-    alt="SQL"
-    title="SQL"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 
-<img
-    alt="PHP"
-    title="PHP"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
 
-<img
-    alt="Linux"
-    title="Linux"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 
-<img
-    alt="Docker"
-    title="Docker"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 
-<img
-    alt="AWS"
-    title="AWS"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 
-<img
-    alt="Git"
-    title="Git"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
 
-<img
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
 
 </p>
 
@@ -110,68 +37,52 @@ https://www.linkedin.com/in/iurigabrieleão/
 - 🐧 Linux
 - 🐳 Docker
 - ☁️ AWS
-- 📊 Power BI
-- 🗄️ SQL
-- 🐍 Python
 - 🌐 Redes
 - 🖥️ Windows Server
+- 📊 Power BI
+- 🐍 Python
+- 🗄️ SQL
 
 ---
 
-# 📊 Estatísticas
+# 🚀 Repositórios de estudo
 
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=IuriLeao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriLeao&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8"
-/>
-
-</p>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=IuriLeao&theme=tokyonight"
-/>
-
-</p>
-
----
-
-# 📈 Gráfico de Atividades
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=IuriLeao&theme=github-dark"
-/>
-
-</p>
+| Área | Status |
+|------|--------|
+| 🐧 Linux | 🚧 Em andamento |
+| 🌐 Networking | 🚧 Em andamento |
+| 🪟 Windows | ⏳ Em breve |
+| 🐳 Docker | ⏳ Em breve |
+| ☁️ AWS | ⏳ Em breve |
+| 🐍 Python | ⏳ Em breve |
+| 📊 Power BI | ⏳ Em breve |
 
 ---
 
 # 🎯 Objetivos para 2026
 
-- ✅ Aprimorar Linux
+- ✅ Dominar Linux
 - ✅ Aprender Docker
-- ✅ Estudar AWS
-- ✅ Desenvolver projetos completos
+- ✅ Aprender AWS
+- ✅ Aprender Windows Server
+- ✅ Criar projetos completos
 - ✅ Contribuir para projetos Open Source
-- ✅ Evoluir para uma posição de Cloud / Dados / Infraestrutura
+- ✅ Evoluir para Cloud / Infraestrutura
+
+---
+
+# 🏆 Certificados
+
+Em breve...
 
 ---
 
 # 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/iurigabrieleão/
-- 📧 Email: iurileao155@gmail.com
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/iurigabrieleão/
+
+📧 **Email**
+
+iurileao155@gmail.com
