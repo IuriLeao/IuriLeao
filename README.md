@@ -49,10 +49,10 @@ Atualmente atuo na área de **Infraestrutura de TI** e direciono meus estudos pa
 
 | Área | Status |
 |------|--------|
-| 🐧 Linux | 🚧 Em andamento |
-| 🌐 Networking | 🚧 Em andamento |
-| 🪟 Windows | ⏳ Em breve |
-| 🐳 Docker | ⏳ Em breve |
+| 🐧 Linux | Basico/intermediario |
+| 🌐 Networking | Basico |
+| 🪟 Windows | Basico |
+| 🐳 Docker | Estudando |
 | ☁️ AWS | ⏳ Em breve |
 | 🐍 Python | ⏳ Em breve |
 | 📊 Power BI | ⏳ Em breve |
